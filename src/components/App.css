@@ -1,0 +1,8 @@
+.top{
+  display: flex;
+  flex-direction: row;
+}
+.fck{
+  height: 3em;
+  width:3em;
+}
